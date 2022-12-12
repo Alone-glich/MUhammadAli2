@@ -1,0 +1,52 @@
+.container {
+  padding: 20;
+  width: 80%;
+  margin: 0 auto;
+}
+.box_1 {
+  text-align: center;
+  border-bottom: 1px dotted black;
+}
+.title {
+  color: aqua;
+}
+.box_2 {
+  margin-top: 10;
+  border-bottom: 0.1px dotted black;
+}
+.box_2_title {
+  color: rgb(13, 112, 180);
+  font-size: 15px;
+}
+.box_3_title {
+  color: blue;
+}
+.container_content {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 40px;
+}
+.content {
+  width: 90%;
+}
+.content {
+  padding-left: 50px;
+}
+.title2 {
+  text-align: right;
+  margin-top: 10px auto;
+}
+.title2 {
+  float: right;
+}
+.title3 {
+  text-align: end;
+}
+.sale {
+  color: blue;
+  text-align: center;
+}
+.q5 {
+  color: blue;
+}
